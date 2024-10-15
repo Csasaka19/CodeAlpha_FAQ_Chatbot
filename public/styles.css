@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #4CAF50;
+}
+
+#faq-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#faq-list li {
+  background: #ddd;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#ask-section, #add-faq-section {
+  margin: 20px 0;
+}
