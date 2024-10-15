@@ -1,0 +1,23 @@
+{
+  "name": "codealpha_faq_chatbot",
+  "version": "1.0.0",
+  "description": "A simple question answer chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Alx@github.com/Csasaka19/CodeAlpha_FAQ_Chatbot.git"
+  },
+  "author": "Clive Sasaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Csasaka19/CodeAlpha_FAQ_Chatbot/issues"
+  },
+  "homepage": "https://github.com/Csasaka19/CodeAlpha_FAQ_Chatbot#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-nlp": "^3.10.2"
+  }
+}
