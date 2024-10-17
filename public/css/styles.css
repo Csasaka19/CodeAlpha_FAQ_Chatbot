@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif; /* Change to an elegant font if desired */
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+#faq-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#faq-list li {
+    background: #ddd; /* Slightly grey background */
+    margin: 10px auto; /* Centered */
+    padding: 10px;
+    border-radius: 5px;
+    width: 80%; /* Width adjustment */
+}
+
+input[type="text"] {
+    width: 60%; /* Reduced width */
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px; /* Circular edges */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Shadow effect */
+}
+
+button {
+    padding: 10px;
+    background-color: #007BFF; /* Blue background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 20px; /* Circular edges */
+    cursor: pointer; /* Pointer on hover */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+#ask-section, #add-faq-section {
+    margin: 20px auto; /* Centered sections */
+}

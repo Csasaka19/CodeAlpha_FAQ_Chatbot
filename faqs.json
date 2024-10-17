@@ -1,0 +1,145 @@
+  {
+"faqs": [
+  {
+    "question": "What is artificial intelligence?",
+    "intent": "ai.definition",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines programmed to think like humans and mimic their actions."
+  },
+  {
+    "question": "Explain AI",
+    "intent": "ai.definition",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines programmed to think like humans and mimic their actions."
+  },
+  {
+    "question": "What does AI mean?",
+    "intent": "ai.definition",
+    "answer": "Artificial Intelligence (AI) refers to the concept of machines being able to carry out tasks in a way that we would consider smart."
+  },
+  {
+    "question": "What is machine learning?",
+    "intent": "ai.machineLearning",
+    "answer": "Machine learning is a subset of AI that focuses on building systems that learn from and make decisions based on data."
+  },
+  {
+    "question": "Explain machine learning",
+    "intent": "ai.machineLearning",
+    "answer": "Machine learning is a subset of AI that focuses on building systems that learn from and make decisions based on data."
+  },
+  {
+    "question": "What is the difference between AI and ML?",
+    "intent": "ai.differenceAIvsML",
+    "answer": "AI is a broad concept of machines being able to carry out tasks in a way that we would consider 'smart'. ML is a subset of AI, focusing on systems that learn from data."
+  },
+  {
+    "question": "What are neural networks?",
+    "intent": "ai.neuralNetworks",
+    "answer": "Neural networks are algorithms inspired by the structure and functioning of the human brain, used in machine learning to recognize patterns."
+  },
+  {
+    "question": "Explain neural networks",
+    "intent": "ai.neuralNetworks",
+    "answer": "Neural networks are algorithms inspired by the structure and functioning of the human brain, used in machine learning to recognize patterns."
+  },
+  {
+    "question": "What is deep learning?",
+    "intent": "ai.deepLearning",
+    "answer": "Deep learning is a subset of ML that uses neural networks with many layers (hence 'deep') to analyze various levels of data abstraction."
+  },
+  {
+    "question": "How does deep learning work?",
+    "intent": "ai.deepLearning",
+    "answer": "Deep learning involves using neural networks with multiple layers to analyze complex data and recognize patterns."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "intent": "security.cybersecurity",
+    "answer": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks."
+  },
+  {
+    "question": "Explain cybersecurity",
+    "intent": "security.cybersecurity",
+    "answer": "Cybersecurity involves protecting computer systems, networks, and data from unauthorized access, theft, and damage."
+  },
+  {
+    "question": "What is the role of cybersecurity?",
+    "intent": "security.cybersecurity",
+    "answer": "The role of cybersecurity is to safeguard data, systems, and networks from potential cyber threats, ensuring information is secure."
+  },
+  {
+    "question": "What is a firewall?",
+    "intent": "security.firewall",
+    "answer": "A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+  },
+  {
+    "question": "Explain firewalls",
+    "intent": "security.firewall",
+    "answer": "A firewall is a network security system that filters and controls incoming and outgoing traffic based on security rules."
+  },
+  {
+    "question": "What is encryption?",
+    "intent": "security.encryption",
+    "answer": "Encryption is the process of encoding information so only authorized parties can access it, ensuring data security."
+  },
+  {
+    "question": "How does encryption work?",
+    "intent": "security.encryption",
+    "answer": "Encryption converts data into a coded format, which can only be deciphered by those with the decryption key, ensuring data privacy."
+  },
+  {
+    "question": "What is phishing?",
+    "intent": "security.phishing",
+    "answer": "Phishing is a type of social engineering attack where attackers deceive people into revealing sensitive information, often via fraudulent emails."
+  },
+  {
+    "question": "Explain phishing",
+    "intent": "security.phishing",
+    "answer": "Phishing is a cyber attack where attackers impersonate trustworthy entities to trick people into revealing personal or sensitive information."
+  },
+  {
+    "question": "What is programming?",
+    "intent": "programming.definition",
+    "answer": "Programming is the process of designing and building executable computer software to accomplish specific computing tasks."
+  },
+  {
+    "question": "Explain programming",
+    "intent": "programming.definition",
+    "answer": "Programming involves writing code and creating software that allows computers to perform specific tasks."
+  },
+  {
+    "question": "What is coding?",
+    "intent": "programming.definition",
+    "answer": "Coding is the process of writing instructions in a programming language that computers can execute."
+  },
+  {
+    "question": "What is the difference between coding and programming?",
+    "intent": "programming.differenceCodingVsProgramming",
+    "answer": "Coding refers to writing code, while programming involves a broader process of planning, designing, and implementing software."
+  },
+  {
+    "question": "What is Python used for?",
+    "intent": "programming.pythonUses",
+    "answer": "Python is a versatile language used for web development, data analysis, artificial intelligence, scientific computing, automation, and more."
+  },
+  {
+    "question": "What is JavaScript used for?",
+    "intent": "programming.javascriptUses",
+    "answer": "JavaScript is mainly used for web development, enabling interactive elements on websites, server-side scripting, and app development."
+  },
+  {
+    "question": "What is an algorithm?",
+    "intent": "programming.algorithm",
+    "answer": "An algorithm is a step-by-step set of instructions for solving a problem or performing a task in programming."
+  },
+  {
+    "question": "Explain algorithms in programming",
+    "intent": "programming.algorithm",
+    "answer": "An algorithm in programming is a defined sequence of steps designed to solve a specific problem or perform a computation."
+  },
+  {
+    "question": "AI",
+    "intent": "ai.definition",
+    "answer": "This is artificial intelligence"
+  }
+]
+  }
+  

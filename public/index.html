@@ -1,37 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FAQ Chatbot</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>FAQ Bot</title>
 </head>
 <body>
-  <h1>Welcome to the FAQ Chatbot</h1>
-  
-  <!-- Display some FAQs -->
-  <div id="faq-section">
-    <h2>Frequently Asked Questions</h2>
-    <ul id="faq-list"></ul> 
-  </div>
+    <div class="container">
+        <h1>FAQ Bot</h1>
+        <div id="faq-list">
+            <!-- FAQs will be displayed here -->
+        </div>
+        <input type="text" id="user-question" placeholder="Ask a question...">
+        <button id="ask-button">Ask</button>
 
-  <!-- Question input form -->
-  <div id="ask-section">
-    <h2>Ask a Question</h2>
-    <input type="text" id="user-question" placeholder="Type your question here...">
-    <button onclick="askBot()">Ask</button>
-    <p id="bot-response"></p>
-  </div>
+        <br><br>
+        <div id="response"></div>
+        <br><br>
 
-  <!-- Add new FAQ form -->
-  <div id="add-faq-section">
-    <h2>Suggest a New FAQ</h2>
-    <input type="text" id="new-faq-question" placeholder="Enter FAQ question">
-    <input type="text" id="new-faq-answer" placeholder="Enter FAQ answer">
-    <button onclick="submitFAQ()">Submit FAQ</button>
-    <p id="submission-response"></p>
-  </div>
+        <h2>Add a New FAQ</h2>
+        <input type="text" id="new-question" placeholder="New question...">
+        <br><br>
+        <input type="text" id="new-answer" placeholder="New answer...">
+        <button id="add-faq-button">Add FAQ</button>
+    </div>
 
-  <script src="script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
